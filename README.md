@@ -24,7 +24,7 @@ Este é um aplicativo de conversão de imagens desenvolvido com Python e Tkinter
 
 1. Clone este repositório para o seu computador local:
    ```bash
-   git clone https://github.com/seu-usuario/conversor-de-imagens.git
+   git clone https://github.com/p1poca2F3136/conversor-de-imagens.git
    ```
 
 2. Navegue até o diretório do projeto:
